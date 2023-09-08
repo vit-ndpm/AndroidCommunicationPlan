@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/deo"
+        android:icon="@drawable/deo"
+        android:title="DEO Office" />
+
+    <item
+        android:id="@+id/seonimalwa"
+        android:icon="@drawable/seonimalwa"
+        android:title="Seonimalwa" />
+
+    <item
+        android:id="@+id/narmadapuram"
+        android:icon="@drawable/narmadapuram"
+        android:title="Narmadapuram" />
+
+    <item
+        android:id="@+id/sohagpur"
+        android:icon="@drawable/sohagpur"
+        android:title="Sohagpur" />
+
+    <item
+        android:id="@+id/pipariya"
+        android:icon="@drawable/pipariya"
+        android:title="Pipariya" />
+
+</menu>
